@@ -1,0 +1,16 @@
+.home-main {
+    /*Layout*/
+    display: grid;
+    row-gap: 50px;
+    place-items: center;
+    h1 {
+        height: 1px;
+        padding: 0;
+        margin: 0;
+    }
+    button {
+        border: none;
+        height: 50px;
+        width: 100px;
+    }
+}
